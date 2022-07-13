@@ -1,0 +1,203 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alvaro",
+      "surnames": "Cuesta Viñolo",
+      "title": "developer",
+      "description": "Informático por vocación.\nHago software desde hace algo más de una década, tanto en consultoría como en producto.\nMe encanta mi trabajo y el constante aprendizaje que requiere, tanto en su faceta tecnológica como humana.\nAlgunas empresas en las que he trabajo son Autentia, Digibis, TwoToForty, Klikin, Waylet, Payvision y actualmente aquí en Manfred!",
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "recommendations": [
+      {
+        "title": "Lo que el viento se llevo",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Margaret",
+            "surnames": "Mitchel",
+            "title": "Author"
+          }
+        ],
+        "summary": "tacata"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "ForgescamPhone"
+        },
+        "roles": [
+          {
+            "name": "developer",
+            "startDate": "2019-03-01",
+            "finishDate": "2019-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Payvision",
+          "URL": "https://www.payvision.com/"
+        },
+        "roles": [
+          {
+            "name": "developer",
+            "startDate": "2019-02-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "Integraciones varias de las diferentes plataformas de pago.\nDesarrollos varios"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AmnesiaCall"
+        },
+        "roles": [
+          {
+            "name": "developer",
+            "startDate": "2016-09-01",
+            "finishDate": "2017-03-01",
+            "challenges": [
+              {
+                "description": "ppp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "RamiroPhone"
+        },
+        "roles": [
+          {
+            "name": "developer",
+            "startDate": "2015-02-01",
+            "finishDate": "2015-07-01",
+            "challenges": [
+              {
+                "description": "some functionallity on RamiroPhone"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "pacaphone"
+        },
+        "roles": [
+          {
+            "name": "Back developer",
+            "startDate": "2010-01-01",
+            "finishDate": "2015-01-01",
+            "challenges": [
+              {
+                "description": "features implementator"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "tapiporlas",
+          "description": "pruebas"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-01-01",
+            "competences": [
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "mongo university developer",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "Mongodb",
+          "description": "fadadas"
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "mongo developer",
+        "startDate": "2020-01-01",
+        "finishDate": "2020-05-01",
+        "institution": {
+          "name": "monouniversity",
+          "description": "curso de la mongo university"
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  }
+}
