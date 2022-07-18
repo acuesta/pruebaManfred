@@ -182,6 +182,22 @@
         ]
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "procastination master",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "procastination University of everywhere",
+          "description": "you can do it, but better tomorrow"
+        },
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "mongo developer",
