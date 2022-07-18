@@ -183,9 +183,10 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "procastination master",
         "startDate": "2022-03-01",
+        "finishDate": "2025-06-01",
         "institution": {
           "name": "procastination University of everywhere",
           "description": "you can do it, but better tomorrow"
