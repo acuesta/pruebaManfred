@@ -66,23 +66,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "AmnesiaCall"
-        },
-        "roles": [
-          {
-            "name": "developer",
-            "startDate": "2016-09-01",
-            "finishDate": "2017-03-01",
-            "challenges": [
-              {
-                "description": "ppp"
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
