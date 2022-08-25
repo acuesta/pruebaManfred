@@ -100,23 +100,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "pacaphone"
-        },
-        "roles": [
-          {
-            "name": "Back developer",
-            "startDate": "2010-01-01",
-            "finishDate": "2015-01-01",
-            "challenges": [
-              {
-                "description": "features implementator"
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
