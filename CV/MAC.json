@@ -83,23 +83,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "RamiroPhone"
-        },
-        "roles": [
-          {
-            "name": "developer",
-            "startDate": "2015-02-01",
-            "finishDate": "2015-07-01",
-            "challenges": [
-              {
-                "description": "some functionallity on RamiroPhone"
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
